@@ -22,6 +22,7 @@ This application is using Mongoose
 ## Screenshots
 
 
+
 ## Instalation 
 To run a copy of this app on your local machine, you need to download MongoDB. 
 Start the application by typing into terminal node server.js. Then go to localhost:3000:
